@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: First-year Ph.D. student
+role: CS Ph.D. student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -54,8 +54,8 @@ interests:
 education:
   - area: Ph.D. in Computer Science
     institution: National University of Singapore
-    date_start: 2024-08
-    date_end: now
+    date_start: 2024-08-05
+    date_end:
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
@@ -74,8 +74,8 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: B.S. in Computer Science
     institution: Nanjing University
-    date_start: 2020-09
-    date_end: 2024-06
+    date_start: 2020-09-01
+    date_end: 2024-06-25
     # summary: |
     #   GPA: 3.4/4.0
       
@@ -185,6 +185,6 @@ education:
 
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 
-I'm Haonan Chen (陈浩楠), a first-year Ph.D. student at School of Computing, National Univerisy, advised by [Prof. Lin Shao](https://linsats.github.io/). Previously, I received my Bachelor's degree from Nanjing University. 
+I'm Haonan Chen (陈浩楠), a first-year Ph.D. student at [School of Computing](https://www.comp.nus.edu.sg/), National Univerisy of Singapore, advised by [Prof. Lin Shao](https://linsats.github.io/). Previously, I received my Bachelor's degree from Nanjing University. 
 
 My research interest lies in topics related to embodied AI, robotics and computer vision. My long-term goal is to enable robots to perceive and manipulate the world like humans. I warmly welcome collaborations with researchers or interns. Feel free to reach out to me.
